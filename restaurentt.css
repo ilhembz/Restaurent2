@@ -6,7 +6,7 @@
     padding: 10px;
     /*background: #f1f1f1;*/
     font-family: latha;
-    background: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50),rgba(0,0,0,0.38),rgba(0,0,0,0)),url('C:/Users/Nitro5/Desktop/HTML Project/Restaurent Project/Pr2/food.jpg')no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50),rgba(0,0,0,0.38),rgba(0,0,0,0)),url('IMG/food.jpg')no-repeat;
 	background-size:cover;
   }
   
